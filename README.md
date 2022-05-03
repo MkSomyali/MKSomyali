@@ -1,4 +1,4 @@
-<h1>Hi, I'm MK! <br/><a href="https://github.com/MkSomyali">Cybersecurity Analyst</a>, <a href="https://www.linkedin.com/in/mk-link">Cybersecurity Professional</a>
+<h1>Hi, I'm MK! <br/><a href="https://github.com/MkSomyali">Cyber Security Analyst</a>, <a href="https://www.linkedin.com/in/mk-link">Cyber Security Professional</a>
 
 <h2>Cyber Security Projects:</h2>
   
