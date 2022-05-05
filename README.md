@@ -4,31 +4,26 @@
   
 - <b>PowerShell</b> 
   
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion on Microsoft Azure Sentinel](https://github.com/MkSomyali/Azure-SIEM)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Microsoft Azure SIEM: Failed RDP Logins Source IP to full GeoData Conversion from Windows Event Log](https://github.com/MkSomyali/Azure-SIEM)
+  - [Nessus Essesntials Vulnerability Management Lab: VMWare Workstation with unpatched Windows OS and third party software]   (https://github.com/MkSomyali/Active-Directory-Lab)
+  - [File Integrity Monitort: (FIM) Log](https://github.com/MkSomyali/File-Integrity-Monitor)
+  - [Active Directory Administration Lab: Running Active Directory inside Oracle VirtualBox and adding Users with Powershell](https://github.com/MkSomyali/Active-Directory-Lab)
+  - [REST API: Using Node js and Postman](https://github.com/MkSomyali/REST-API-Experiment)
   
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+- <b>Programming</b>
   
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-  
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  -
   
 <h2>Certifications:</h2>
   - 
 
 <h2>Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="MkSomyali | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="MkSomyali | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/joshmadakor
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]:
+[linkedin]: https://www.linkedin.com/in/mk-link
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
