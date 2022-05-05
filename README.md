@@ -2,10 +2,10 @@
 
 <h2>Cyber Security Projects:</h2>
   
-- <b>PowerShell</b> 
+- <b>Security & Administration</b> 
   
   - [Microsoft Azure SIEM: Failed RDP Logins Source IP to full GeoData Conversion from Windows Event Log](https://github.com/MkSomyali/Azure-SIEM)
-  - [Nessus Essesntials Vulnerability Management Lab: VMWare Workstation with unpatched Windows OS and third party software]   (https://github.com/MkSomyali/Active-Directory-Lab)
+  - [Nessus Essesntials Vulnerability Management Lab: VMWare Workstation with unpatched Windows OS and third party software](https://github.com/MkSomyali/Active-Directory-Lab)
   - [File Integrity Monitort: (FIM) Log](https://github.com/MkSomyali/File-Integrity-Monitor)
   - [Active Directory Administration Lab: Running Active Directory inside Oracle VirtualBox and adding Users with Powershell](https://github.com/MkSomyali/Active-Directory-Lab)
   - [REST API: Using Node js and Postman](https://github.com/MkSomyali/REST-API-Experiment)
