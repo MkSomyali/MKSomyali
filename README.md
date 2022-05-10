@@ -1,6 +1,6 @@
 <h1>Hi, I'm MK! <br/><a href="https://github.com/MkSomyali">SOC Analyst</a>, <a href="https://www.linkedin.com/in/mk-link">Cyber Security Professional</a>
 
-<h2>Cyber Security Projects:</h2>
+<h2>Cyber Security Projects</h2>
   
 - <b>Security & Administration</b> 
   
@@ -10,7 +10,7 @@
   - [Active Directory Administration Lab: Running Active Directory inside Oracle VirtualBox and adding Users with Powershell](https://github.com/MkSomyali/Active-Directory-Lab)
   - [REST API: Using Node js and Postman](https://github.com/MkSomyali/REST-API-Experiment)
   
-- <b>Programming</b>
+<h2>Programming Projects</h2>
   
   - Selft teachung through The Odin Project. 
   
