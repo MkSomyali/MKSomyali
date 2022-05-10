@@ -12,10 +12,12 @@
   
 - <b>Programming</b>
   
-  -
+  - Selft teachung through The Odin Project. 
   
 <h2>Certifications:</h2>
-  - 
+  
+  - Studying for the Microsoft Security Operations Analyst SC-200 Certification
+  
 <h2>Connect with me:</h2>
 
 [<img align="left" alt="MkSomyali | Twitter" width="22px"
