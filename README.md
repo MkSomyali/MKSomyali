@@ -16,7 +16,7 @@
   
 <h2>Certifications:</h2>
   
-  - Studying for the Microsoft Security Operations Analyst SC-200 Certification
+  - Studying for the SC-200 Microsoft Security Operations Analyst Associate Certification
   
 <h2>Connect with me:</h2>
 
