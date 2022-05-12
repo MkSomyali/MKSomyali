@@ -12,7 +12,7 @@
   
 <h2>Programming Projects</h2>
   
-  - Selft teachung through The Odin Project. 
+  - Self teaching through The Odin Project. 
   
 <h2>Certifications:</h2>
   
