@@ -16,7 +16,7 @@
   
 <h2>Certifications:</h2>
   
-  - Studying for CompTIA Security+ Certification
+  - Studying for CompTIA Security+ SY0-601 Certification
   
 <h2>Connect with me:</h2>
 
